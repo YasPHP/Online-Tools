@@ -1,0 +1,2 @@
+- FireFox Send (up to 1GB, sign in 2.5GB): https://send.firefox.com/
+

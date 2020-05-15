@@ -5,8 +5,9 @@
 - lynda.com (free w/ a library card)
 - edx courses
 - udemy 
+- raspberry pi code club: https://projects.raspberrypi.org/en/codeclub
 
-==== COSING BOOTCAMPS ====
+==== CODING BOOTCAMPS ====
 
 - perscholas
 - fullstack academy

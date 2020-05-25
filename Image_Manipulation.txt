@@ -1,2 +1,2 @@
 - Dimension Resizer: https://resizeimage.net/
-
+- Background Remover - Transparent PNG: https://www.remove.bg/

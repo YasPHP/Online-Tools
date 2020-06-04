@@ -13,3 +13,9 @@
 - fullstack academy
 - ada developer academy
 - pursuit
+
+==== COMPREHENSIVE WEBSITES ====
+- Python: This is a great free python resource that I wish I had found much earlier! https://lectures.quantecon.org/py/ 
+
+==== YOUTUBERS ====
+- Python Programmer 

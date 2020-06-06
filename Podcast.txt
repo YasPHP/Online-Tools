@@ -1,3 +1,5 @@
+==== Software ====
+
 - Podcast word inscriber (for notes & blog posts): https://www.descript.com/
 
 - Headliner audiogram: https://make.headliner.app/projects 
@@ -14,4 +16,7 @@
 
 - Audicity Editing Software: https://www.audacityteam.org/
 
+
+==== Video Tutorials ====
+- Buzzsprout Beginner Series: https://www.youtube.com/watch?v=Gejf39h3_IY&list=PL_7hD9e-mJ3VInv1XxWviN7I-Llf5x3kU
 

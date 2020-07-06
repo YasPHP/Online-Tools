@@ -8,8 +8,6 @@
 
 - SpeakPipe (Engaging audience- receive voicemail recordings from your listeners): https://www.speakpipe.com/?utm_source=buzzsprout-blog
 
-- Social Promo: https://wavve.co/?utm_source=buzzsprout-blog
-
 - Easy-to-use automation platform: https://repurpose.io/
 
 - EP Covers Graphic Design: https://www.canva.com
@@ -30,3 +28,5 @@
 - Spotify for Podcasters: https://podcasters.spotify.com/
 
 - Anchor Hosting: https://anchor.fm/
+
+- Social Promo: https://wavve.co/?utm_source=buzzsprout-blog

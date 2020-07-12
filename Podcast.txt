@@ -10,8 +10,6 @@
 
 - Easy-to-use automation platform: https://repurpose.io/
 
-- EP Covers Graphic Design: https://www.canva.com
-
 - Audicity Editing Software: https://www.audacityteam.org/
 
 
@@ -30,3 +28,7 @@
 - Anchor Hosting: https://anchor.fm/
 
 - Social Promo: https://wavve.co/?utm_source=buzzsprout-blog
+
+==== Graphic Design ====
+
+- EP Covers Graphic Design: https://www.canva.com

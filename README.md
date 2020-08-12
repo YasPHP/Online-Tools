@@ -6,3 +6,5 @@ Current Topics Include:
 - Meeting Schedulers
 - File Sharing Mediums
 - Project Management Platforms
+- Mathematics Tools
+- Video Production

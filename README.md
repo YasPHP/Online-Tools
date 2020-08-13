@@ -8,3 +8,5 @@ Current Topics Include:
 - Project Management Platforms
 - Mathematics Tools
 - Video Production
+- Podcasting 
+- Image Manipulation

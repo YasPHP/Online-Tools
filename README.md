@@ -10,3 +10,5 @@ Current Topics Include:
 - Video Production
 - Podcasting 
 - Image Manipulation
+- Online Study Tools
+- Websites

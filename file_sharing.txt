@@ -1,4 +1,4 @@
-- FireFox Send (up to 1GB, sign in 2.5GB): https://send.firefox.com/
+- FireFox Send (up to 1GB, sign in 2.5GB): https://send.firefox.com/  (pre-security leak)
 
 - OneTimeSecret webpage: https://onetimesecret.com/
 

@@ -12,3 +12,5 @@ Current Topics Include:
 - Image Manipulation
 - Online Study Tools
 - Websites
+- Statistics
+- Chrome Extensions

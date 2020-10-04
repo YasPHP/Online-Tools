@@ -6,6 +6,7 @@
 - edx courses
 - udemy 
 - raspberry pi code club: https://projects.raspberrypi.org/en/codeclub
+- Front End Masters: https://frontendmasters.com/
 
 ==== CODING BOOTCAMPS ====
 

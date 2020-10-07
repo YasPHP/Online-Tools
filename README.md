@@ -15,3 +15,4 @@ Current Topics Include:
 - Statistics
 - Chrome Extensions
 - Random, fun tools
+- Financial Literacy

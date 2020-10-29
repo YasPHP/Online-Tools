@@ -20,3 +20,4 @@ Current Topics Include:
 - Filtering
 - PDF file manipulation
 - Hosting
+- Comparison Tools

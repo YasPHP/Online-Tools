@@ -27,3 +27,6 @@
 ==== COLLAB CODING ====
 - Repl.it
 - Github Classroom
+
+==== SUPPLEMENTARY ====
+- Code Visualizer: http://pythontutor.com/

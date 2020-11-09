@@ -6,3 +6,4 @@
 
 - Create beautiful diagrams just by typing notation in plain text (visual mathematical intuition): https://penrose.ink/
 
+- Mandelbulber (program for rendering images/videos based on mathematical objects): https://mandelbulber.org/

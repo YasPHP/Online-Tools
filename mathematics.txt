@@ -9,3 +9,5 @@
 - Mandelbulber (program for rendering images/videos based on mathematical objects): https://mandelbulber.org/
 
 - iHateRegex: https://ihateregex.io/
+
+- Regex checker: https://regexr.com/

@@ -11,3 +11,7 @@
 - iHateRegex: https://ihateregex.io/
 
 - Regex checker: https://regexr.com/
+
+
+== Blogs ==
+- Nature of Mathematics: https://natureofmathematics.wordpress.com/

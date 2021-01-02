@@ -30,3 +30,7 @@
 
 ==== SUPPLEMENTARY ====
 - Code Visualizer (Python, Java, etc.): http://pythontutor.com/
+
+
+==== HELPFUL SOFTWARE FLOW TOOLS ====
+- Issue Tracking:  linear.app

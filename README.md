@@ -1,7 +1,13 @@
-# Online-Tools
-An amalgamation of online tools.
+# What if you could navigate the internet more cleverly?
 
-Current Topics Include:
+![alt text](https://wisdmlabs.com/site/wp-content/uploads/2017/02/Elearning-Tools.png)
+
+# About
+
+An amalgamation of helpful online tools.
+
+# Current Topics
+
 - Internet Security
 - Meeting Schedulers
 - File Sharing Mediums
@@ -22,3 +28,7 @@ Current Topics Include:
 - Hosting
 - Comparison Tools
 - Software Design
+
+# Contributing
+
+(just fork the repo & you're set!)

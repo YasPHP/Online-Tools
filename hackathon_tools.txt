@@ -1,3 +1,5 @@
 - Undraw (Open-source illustrations for any idea you can imagine and create): https://undraw.co/
 
 - Tuple (The best remote pair programming app on macOS): https://tuple.app/
+
+- Web Hosting: https://www.netlify.com/

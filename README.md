@@ -28,6 +28,7 @@ An amalgamation of helpful online tools.
 - Hosting
 - Comparison Tools
 - Software Design
+- Documentation
 
 # Contributing
 

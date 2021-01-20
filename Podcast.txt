@@ -2,7 +2,7 @@
 
 - Podcast word inscriber (for notes & blog posts): https://www.descript.com/
 
-- Headliner audiogram: https://make.headliner.app/projects 
+- Headliner audiogram: https://make.headliner.app/projects  
 
 - ZenCastr remote recording: https://zencastr.com/
 

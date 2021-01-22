@@ -1,6 +1,5 @@
-- FireFox Send (up to 1GB, sign in 2.5GB): https://send.firefox.com/  (pre-security leak)
-
 - OneTimeSecret webpage: https://onetimesecret.com/
 
 - We Transfer: https://wetransfer.com/
 
+- Share code over the internet- https://pastebin.com/

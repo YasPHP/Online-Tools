@@ -3,3 +3,6 @@
 - Tuple (The best remote pair programming app on macOS): https://tuple.app/
 
 - Web Hosting: https://www.netlify.com/
+
+=== PROTOTYPING DESIGN ===
+- ADOBE XD: https://www.adobe.com/ca/products/xd.html

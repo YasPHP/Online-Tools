@@ -1,8 +1,18 @@
 - Undraw (Open-source illustrations for any idea you can imagine and create): https://undraw.co/
 
+=== COLLABORATIVE WORKSPACES ===
+
 - Tuple (The best remote pair programming app on macOS): https://tuple.app/
 
-- Web Hosting: https://www.netlify.com/
 
 === PROTOTYPING DESIGN ===
-- ADOBE XD: https://www.adobe.com/ca/products/xd.html
+
+- Adobe XD: https://www.adobe.com/ca/products/xd.html
+- Figma: https://www.figma.com/
+
+
+=== WEB HOSTING ===
+
+- Netlify: https://www.netlify.com/
+- Repl.it: https://docs.repl.it/repls/web-hosting
+- Github Webpages: https://pages.github.com/

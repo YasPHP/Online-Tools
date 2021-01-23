@@ -19,6 +19,7 @@ An amalgamation of helpful online tools.
 - Online Study Tools
 - Websites
 - Statistics
+- Hackathon Tools
 - Chrome Extensions
 - Random, fun tools
 - Financial Literacy

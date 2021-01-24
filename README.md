@@ -2,12 +2,10 @@
 
 ![alt text](https://wisdmlabs.com/site/wp-content/uploads/2017/02/Elearning-Tools.png)
 
-# About
-
+## About
 An amalgamation of helpful online tools.
 
-# Current Topics
-
+## Current Topics
 - Internet Security
 - Meeting Schedulers
 - File Sharing Mediums
@@ -31,6 +29,9 @@ An amalgamation of helpful online tools.
 - Software Design
 - Documentation
 
-# Contributing
-
-(just fork the repo & you're set!)
+## Contributing
+### 4 Steps:
+- Curate a Pull Request for your desired changes
+- Follow the used markdown syntax
+- Leave any comments or publish new issues
+- Have fun!

@@ -1,9 +1,8 @@
-=== Ad Blockers ===
+# Ad Blockers
 - Ghostery
 
-=== Customized Search Engine Front Page ===
+# Customized Search Engine Front Page
 - Momentum
 
-
-=== Health Care ===
+# Health Care
 - DarkReader (eye-care browser extension): https://darkreader.org/

@@ -1,7 +1,7 @@
 # Study Stuff
 
 ## Note Taking
-- Notion<br> href = 'https://www.notion.so/'
+- [Notion](https://www.notion.so/)
 - Google Docs
 - PDF-XChange Viewer<br>```PDF search engine```
 - Combine PDF<br>```https://combinepdf.com/```

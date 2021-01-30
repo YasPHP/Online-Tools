@@ -7,9 +7,9 @@
 - lynda.com (free w/ a library card)
 - edx courses
 - udemy 
-- raspberry pi code club: https://projects.raspberrypi.org/en/codeclub
-- Front End Masters: https://frontendmasters.com/
-- Python.org: https://www.python.org/
+- [Raspberry Pi Code Club](https://projects.raspberrypi.org/en/codeclub)
+- [Front End Masters](https://frontendmasters.com/)
+- [Python.org](https://www.python.org/)
 
 ## Coding Bootcamps
 
@@ -20,18 +20,18 @@
 
 ## Comprehensive Websites
 - Python: This is a great free python resource that I wish I had found much earlier! https://lectures.quantecon.org/py/ 
-- CS resources: https://www.cs.toronto.edu/~arnold/
+- [UofT CS resources](https://www.cs.toronto.edu/~arnold/)
 
 ## Youtubers
 - Python Programmer 
-- BEST source! (Back to Back SWE): https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA
+- BEST source! [Back to Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
 
 ## Collaborative Coding
 - Repl.it
 - Github Classroom
 
 ## Code Visualizer Tools
-- Code Visualizer (Python, Java, etc.): http://pythontutor.com/
+- [Code Visualizer (Python, Java, etc.)](http://pythontutor.com/)
 
 
 ## Helpful Software Flow Tools

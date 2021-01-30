@@ -1,4 +1,6 @@
-==== ONLINE RESOURCES ====
+# Coding
+
+## Online Resources
 
 - freecodecamp
 - coursera
@@ -9,28 +11,28 @@
 - Front End Masters: https://frontendmasters.com/
 - Python.org: https://www.python.org/
 
-==== CODING BOOTCAMPS ====
+## Coding Bootcamps
 
 - perscholas
 - fullstack academy
 - ada developer academy
 - pursuit
 
-==== COMPREHENSIVE WEBSITES ====
+## Comprehensive Websites
 - Python: This is a great free python resource that I wish I had found much earlier! https://lectures.quantecon.org/py/ 
 - CS resources: https://www.cs.toronto.edu/~arnold/
 
-==== YOUTUBERS ====
+## Youtubers
 - Python Programmer 
 - BEST source! (Back to Back SWE): https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA
 
-==== COLLAB CODING ====
+## Collaborative Coding
 - Repl.it
 - Github Classroom
 
-==== SUPPLEMENTARY ====
+## Code Visualizer Tools
 - Code Visualizer (Python, Java, etc.): http://pythontutor.com/
 
 
-==== HELPFUL SOFTWARE FLOW TOOLS ====
+## Helpful Software Flow Tools
 - Issue Tracking:  linear.app

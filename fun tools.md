@@ -1,8 +1,7 @@
-- send a book as a gift: https://read.gift/
-- discord/slack emojis: https://emoji.gg/
-- After Me: https://afterme.tk/#/
-- collaborative movie watching: https://scener.com/
-
+- [Send a book](https://read.gift/) as a gift
+- [Discord emojis](https://emoji.gg/)
+- [After Me](https://afterme.tk/#/)
+- [Scener]()collaborative movie watching: https://scener.com/
 
 
 # Customization

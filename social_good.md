@@ -1,2 +1,2 @@
 # Social Good Platform
-FLIK (onnects female founders/leaders to verified, driven womxn for 3-month volunteer-based apprenticeships): https://weareflik.com/
+[FLIK (onnects female founders/leaders to verified, driven womxn for 3-month volunteer-based apprenticeships)](https://weareflik.com/)

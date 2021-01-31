@@ -1,12 +1,14 @@
 # Collaborative Studying
 
-- Team Study: https://www.teamstudy.com/ 
-- shareable whiteboard: https://www.tutorialspoint.com/whiteboard.htm
-- shareable Latex editor: https://www.overleaf.com/
-- Real-Time Online Whiteboard: https://awwapp.com/
-- Meetup software
-- Google Jamboard: https://edu.google.com/products/jamboard/
+- [Team Study](https://www.teamstudy.com/)
+- [Google Jamboard](https://edu.google.com/products/jamboard/)
+- [Overleaf](https://www.overleaf.com/) Latex editor
+
+# Whiteboards
+- [Real-Time Online Whiteboard](https://awwapp.com/)
+- [Shareable Whiteboard](https://www.tutorialspoint.com/whiteboard.htm)
 
 # Notes
 
-- A note-taking tool for networked thought: https://roamresearch.com/
+- [DeepLink Space](https://deeplink.space/)
+- [Roam Research](https://roamresearch.com/)

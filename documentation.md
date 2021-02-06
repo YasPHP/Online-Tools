@@ -1,7 +1,7 @@
 # Documentation
 
 ## Examples
-- {Ionic Framework (beautiful code documentation)](https://ionicframework.com/docs)
+- [Ionic Framework (beautiful code documentation)](https://ionicframework.com/docs)
 
 ## Tools
 - [VuePress](https://vuepress.vuejs.org/)

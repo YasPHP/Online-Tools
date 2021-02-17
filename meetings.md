@@ -4,4 +4,3 @@ meeting resources:
 - Gather Town (virtual Pokemon meetings): https://gather.town/
 - Virbela (a virtual world): https://www.virbela.com/
 - [Branch](https://branch.gg/)
-- 

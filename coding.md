@@ -31,6 +31,7 @@
 - Github Classroom
 
 ## Code Visualizer Tools
+
 - [Code Visualizer (Python, Java, etc.)](http://pythontutor.com/)
 
 

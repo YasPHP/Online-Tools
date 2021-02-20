@@ -36,3 +36,6 @@
 
 ## Helpful Software Flow Tools
 - Issue Tracking:  linear.app
+
+## Tech Fellowships
+[Harvard WeCode](https://www.harvardwecode.com/)

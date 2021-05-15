@@ -13,3 +13,6 @@
 - Github Pages<br>```https://pages.github.com/```
 - Netlify (Web Hosting)<br>```https://www.netlify.com/```
 - Guide to Web Dev<br>```https://frontendmasters.com/courses/web-development-v2/```
+
+## Quick Sites
+- [Spread Simple (publish google form submissions directly onto site)](https://spreadsimple.com/)

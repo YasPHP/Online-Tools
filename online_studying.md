@@ -12,3 +12,7 @@
 
 - [DeepLink Space](https://deeplink.space/)
 - [Roam Research](https://roamresearch.com/)
+
+# Learning Resources
+
+- [Limited Free Udemy Courses](https://www.discudemy.com/language/english)

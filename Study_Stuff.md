@@ -6,6 +6,10 @@
 - PDF-XChange Viewer<br>```PDF search engine```
 - Combine PDF<br>```https://combinepdf.com/```
 
+## Collaborative Studying
+- [LifeAt Spaces](https://lifeat.io/app?space=498)
+- [Fiveable Hours](https://fiveable.me/)
+
 ## Science
 - SciHub (access to research papers)<br>```https://sci-hub.st/```
 - Mendeley<br>```https://wwww.mendeley.com/reference-management/mendeley-desktop```
